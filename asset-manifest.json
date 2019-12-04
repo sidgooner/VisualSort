@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/VisualSort/static/css/main.d2df6a91.chunk.css",
+    "main.js": "/VisualSort/static/js/main.69fe85cb.chunk.js",
+    "main.js.map": "/VisualSort/static/js/main.69fe85cb.chunk.js.map",
+    "runtime-main.js": "/VisualSort/static/js/runtime-main.9b9bdcce.js",
+    "runtime-main.js.map": "/VisualSort/static/js/runtime-main.9b9bdcce.js.map",
+    "static/js/2.e4de16bc.chunk.js": "/VisualSort/static/js/2.e4de16bc.chunk.js",
+    "static/js/2.e4de16bc.chunk.js.map": "/VisualSort/static/js/2.e4de16bc.chunk.js.map",
+    "index.html": "/VisualSort/index.html",
+    "precache-manifest.6dd3ad5f8bc45b3b65ed3447b01822f2.js": "/VisualSort/precache-manifest.6dd3ad5f8bc45b3b65ed3447b01822f2.js",
+    "service-worker.js": "/VisualSort/service-worker.js",
+    "static/css/main.d2df6a91.chunk.css.map": "/VisualSort/static/css/main.d2df6a91.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b9bdcce.js",
+    "static/js/2.e4de16bc.chunk.js",
+    "static/css/main.d2df6a91.chunk.css",
+    "static/js/main.69fe85cb.chunk.js"
+  ]
+}
